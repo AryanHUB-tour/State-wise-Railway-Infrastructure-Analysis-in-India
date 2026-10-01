@@ -29,3 +29,8 @@ https://ndap.niti.gov.in/dataset/7235
 
 Through this project, I learned more about:
 Power BI | DAX | Data Visualisation | Data Analysis
+
+Demo:
+1. https://github.com/AryanHUB-tour/State-wise-Railway-Infrastructure-Analysis-in-India/blob/main/Snapshot%20of%20dashboard%201.png
+2. https://github.com/AryanHUB-tour/State-wise-Railway-Infrastructure-Analysis-in-India/blob/main/Snapshot%20of%20dashboard%202.png
+3. https://github.com/AryanHUB-tour/State-wise-Railway-Infrastructure-Analysis-in-India/blob/main/Snapshot%20of%20dashboard%203.png
